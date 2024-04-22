@@ -1,2 +1,2 @@
-# JavaProgram
-存放个人的Java小项目
+# TextStatistician简易文本编辑器
+文档待更新
